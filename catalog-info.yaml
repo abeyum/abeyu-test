@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: abetyu-test
+  name: abeyu-test
   description: test
   annotations: 
     github.com/project-slug: abeyu/abeyu-test
